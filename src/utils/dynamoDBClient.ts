@@ -14,8 +14,8 @@ const AWS = require('aws-sdk');
 AWS.config.update({
   region: "localhost",
   endpoint: "http://localhost:8000",
-  accessKeyId: "AKIA4FWNQSUHDTH5FM2O",
-  secretAccessKey: "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"
+  accessKeyId: "X",
+  secretAccessKey: "X"
 })
 
 
